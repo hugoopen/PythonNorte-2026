@@ -210,7 +210,7 @@ Este projeto foi criado para fortalecer a cultura de compartilhamento de conheci
 
 Desenvolvido por Hugo Silva para a Comunidade Python Norte 2026.
 
-GitHub: @Hugoopen https://github.com/hugoopen
+GitHub: **[hugoopen](https://github.com/hugoopen)**
 
 Portfólio: hugoo.dev
 
