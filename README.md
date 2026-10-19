@@ -208,9 +208,9 @@ Este projeto foi criado para fortalecer a cultura de compartilhamento de conheci
 
 👨‍💻 Autor
 
-Desenvolvido por Hugo Leal para a Comunidade Python Norte 2026.
+Desenvolvido por Hugo Silva para a Comunidade Python Norte 2026.
 
-GitHub: @Hugoopen
+GitHub: @Hugoopen https://github.com/hugoopen
 
 Portfólio: hugoo.dev
 
